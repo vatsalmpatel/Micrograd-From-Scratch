@@ -1,0 +1,5 @@
+# Core dependencies (none required - pure Python implementation)
+
+# Development and Testing dependencies
+pytest>=7.0.0
+torch>=1.9.0
